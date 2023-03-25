@@ -5,7 +5,7 @@ It is a ML technique that trains with annotated visuals to identify and name obj
 
 ## Deep Learning Framework
 
-Framework used: TensorFlow
+### Framework used: TensorFlow
 
  TensorFlow is a popular open-source deep learning framework developed by Google. It is designed to build and train large-scale neural networks for various tasks such as object detection, natural language processing, and image recognition. TensorFlow offers a lot of flexibility and supports various programming languages such as Python, C++, and Java.
 
