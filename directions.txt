@@ -1,0 +1,12 @@
+git clone https://github.com/nicknochnack/TFODCourse.git
+cd TFODCourse
+python -m venv Obj_Dt_Room
+.\tfod\Scripts\activate # Windows
+
+error:
+cannot be loaded because running scripts is disabled on this system
+do this in powershell admin
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Restricted
+
+python -m pip install --upgrade pip
